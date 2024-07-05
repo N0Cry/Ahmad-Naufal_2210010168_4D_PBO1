@@ -139,10 +139,10 @@ System.out.println("Data Monitor:");
 System.out.println(mahasiswa.displayInfo());
 ```
 
-13. **Array** adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel. Pada kode ini, `Monitor[] monitors = new Monitor[2];` adalah contoh penggunaan array.
+13. **Array** adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel. Pada kode ini, `MonitorDetail[] monitors = new MonitorDetail[2];` adalah contoh penggunaan array.
 
 ```bash
-Monitor[] monitors = new Monitor[2];
+MonitorDetail[] monitors = new MonitorDetail[2];
 ```
 
 14. **Error Handling** digunakan untuk menangani error yang mungkin terjadi saat runtime. Pada kode ini, digunakan `try catch` untuk menangani error.
